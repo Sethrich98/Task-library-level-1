@@ -1,0 +1,93 @@
+
+@media only screen and (min-width: 786px){
+
+#b1 {
+    display: inline-block;
+    border: 2px solid white;
+    width: 94%;
+    background-color: #F5C6D6;
+    padding: 50px;
+    margin: 2px; 
+    font-size: 0px;
+}
+
+#b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+    display: inline-block;
+    border: 2px solid white;
+    padding: 50px;
+    margin: 2px; 
+    font-size: 0px;
+}
+
+
+#b2, #b3, #b4, #b5 {
+    width: 19%;
+    background-color: #EE2E84;
+    font-size: 0px;
+}
+
+#b6, #b7 {
+    width: 44%;
+    background-color: #85CFD8;
+    font-size: 0px;
+}
+
+#b8 {
+    width: 69%;
+    background-color: #8DC63F;
+    font-size: 0px;
+}
+
+#b9 {
+    width: 19%;
+    background-color: #E76E34;
+    font-size: 0px;
+}
+
+}
+
+@media only screen and (max-width: 786px){
+    #b1 {
+        display: inline-block;
+        border: 2px solid white;
+        width: 100%;
+        background-color: #F5C6D6;
+        padding: 50px;
+        margin: 2px; 
+        font-size: 0px;
+    }
+    
+    #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+        display: inline-block;
+        border: 2px solid white;
+        padding: 50px;
+        margin: 2px; 
+        font-size: 0px;
+    }
+    
+    
+    #b2, #b3, #b4, #b5 {
+        width: 100%;
+        background-color: #EE2E84;
+        font-size: 0px;
+    }
+    
+    #b6, #b7 {
+        width: 100%;
+        background-color: #85CFD8;
+        font-size: 0px;
+    }
+    
+    #b8 {
+        width: 100%;
+        background-color: #8DC63F;
+        font-size: 0px;
+    }
+    
+    #b9 {
+        width: 100%;
+        background-color: #E76E34;
+        font-size: 0px;
+    }
+
+}
